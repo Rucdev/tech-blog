@@ -1,9 +1,0 @@
-{
-  "name": "tech-blog-scripts",
-  "private": true,
-  "version": "1.0.0",
-  "description": "はてなブログエクスポートの取込スクリプト",
-  "dependencies": {
-    "turndown": "^7.2.4"
-  }
-}
