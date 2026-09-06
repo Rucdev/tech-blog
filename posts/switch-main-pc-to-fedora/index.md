@@ -1,7 +1,7 @@
 ---
 title: "メインPCをFedoraにする"
 date: 2026-06-27T01:18:28+09:00
-categories: []
+categories: ["Linux"]
 draft: false
 hatenaPath: "/entry/2026/06/27/011828"
 image: ./images/20260614002353.png
