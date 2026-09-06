@@ -1,10 +1,9 @@
 ---
 title: "入力する枠が可変の入力欄を作る(React + TypeScript)"
-date: 2022-06-24T09:30:00+09:00
-categories: ["TypeScript", "React"]
-draft: false
-hatenaPath: "/entry/2022/06/24/093000"
-image: ./images/20220617063156.png
+description: "React + TypeScriptで、入力欄の数をユーザーが増減できるフォームを作る"
+pubDate: 2022-06-24T09:30:00+09:00
+tags: ["TypeScript", "React"]
+heroImage: ./images/20220617063156.png
 ---
 
 React + TypeScriptを用いて入力できる枠の数がユーザー側で調整可能な入力欄を作っていきます。 完成イメージはこんな感じ↓

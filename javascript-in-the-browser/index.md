@@ -1,9 +1,8 @@
 ---
 title: "JavaScriptはブラウザ上で動くことを全然理解していなかった人の話"
-date: 2022-02-08T08:30:00+09:00
-categories: ["JavaScript"]
-draft: false
-hatenaPath: "/entry/2022/02/08/083000"
+description: "ReactのfetchがDocker内のサービス名を解決できずにハマり、JavaScriptはブラウザ上で動くという基本を理解し直した話"
+pubDate: 2022-02-08T08:30:00+09:00
+tags: ["JavaScript"]
 ---
 
 ## Web開発始めました

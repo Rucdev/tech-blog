@@ -1,10 +1,8 @@
 ---
 title: "初めてのAnsible モジュール作成"
-date: 2022-12-06T09:00:00+09:00
-categories: ["Ansible"]
-draft: false
-hatenaPath: "/entry/2022/12/06/090000"
 description: "初めてのAnsibleモジュール作成！"
+pubDate: 2022-12-06T09:00:00+09:00
+tags: ["Ansible"]
 ---
 
 本記事は「[エーピーコミュニケーションズ Advent Calendar 2022](https://qiita.com/advent-calendar/2022/ap-com)」の6日目のエントリとなります。

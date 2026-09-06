@@ -1,10 +1,9 @@
 ---
 title: "Rockerを始める"
-date: 2022-03-05T14:40:04+09:00
-categories: ["R", "Rstudio", "統計解析"]
-draft: false
-hatenaPath: "/entry/2022/03/05/144004"
-image: ./images/20220116140723.png
+description: "Rocker ProjectのDockerイメージを使ってWSL2上に最新のR + RStudio Server環境をサクッと作る"
+pubDate: 2022-03-05T14:40:04+09:00
+tags: ["R", "Rstudio", "統計解析"]
+heroImage: ./images/20220116140723.png
 ---
 
 ## Rstudioのバージョン更新結構ほったらかしがち(N=1)

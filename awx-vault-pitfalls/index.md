@@ -1,10 +1,9 @@
 ---
 title: "AWXでVaultを使うときは気を付けよう"
-date: 2024-06-02T20:08:18+09:00
-categories: ["Ansible", "AWX"]
-draft: false
-hatenaPath: "/entry/2024/06/02/200818"
-image: ./images/20240602160958.png
+description: "AWXでgroup_vars/host_varsにansible-vaultを使うときの注意点と、encrypt_stringを使うべき理由"
+pubDate: 2024-06-02T20:08:18+09:00
+tags: ["Ansible", "AWX"]
+heroImage: ./images/20240602160958.png
 ---
 
 ## AWXではgroup\_varsやhost\_varsにansible-vaultを使用するときは要注意！

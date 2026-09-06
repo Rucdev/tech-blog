@@ -1,10 +1,9 @@
 ---
 title: "Pulumiに入門する"
-date: 2023-08-24T22:21:51+09:00
-categories: []
-draft: false
-hatenaPath: "/entry/2023/08/24/222151"
-image: ./images/20230824211210.png
+description: "Terraformのライセンス変更をきっかけに知ったPulumiに、公式の手順を参考に入門する"
+pubDate: 2023-08-24T22:21:51+09:00
+tags: []
+heroImage: ./images/20230824211210.png
 ---
 
 最近目にしたこの記事の最後に`Pulumi`なるものが出てきていて、恥ずかしながら私はまったくこの存在を知りませんでした。  

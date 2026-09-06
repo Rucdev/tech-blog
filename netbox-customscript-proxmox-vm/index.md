@@ -1,9 +1,8 @@
 ---
 title: "NetBoxのCustomScriptでProxmoxのVM作成を自動化してみよう"
-date: 2026-02-21T13:50:50+09:00
-categories: []
-draft: false
-hatenaPath: "/entry/2026/02/21/135050"
+description: "NetBoxのCustomScriptとEventRuleを組み合わせて、ProxmoxへのVM自動払い出しを実装する"
+pubDate: 2026-02-21T13:50:50+09:00
+tags: []
 ---
 
 NetBoxはNetBoxLab社が開発しているDCIM/IPAMツールです。

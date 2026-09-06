@@ -1,10 +1,9 @@
 ---
 title: "Terraformでサーバレスアプリケーション構築の挑戦"
-date: 2024-10-10T22:43:17+09:00
-categories: ["Terraform"]
-draft: false
-hatenaPath: "/entry/2024/10/10/224317"
-image: ./images/20240317001240.png
+description: "AWS公式チュートリアルのLambda + API Gateway + DynamoDBによるCRUD APIをTerraformで構築してみる"
+pubDate: 2024-10-10T22:43:17+09:00
+tags: ["Terraform"]
+heroImage: ./images/20240317001240.png
 ---
 
 ## Terraformでサーバレスを作る

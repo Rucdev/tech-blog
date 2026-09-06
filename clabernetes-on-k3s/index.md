@@ -1,10 +1,9 @@
 ---
 title: "【格闘】ClabernetesをK3sで作ってみよう"
-date: 2026-04-13T00:28:19+09:00
-categories: []
-draft: false
-hatenaPath: "/entry/2026/04/13/002819"
-image: ./images/20260405224201.png
+description: "Proxmox上のVM3台で組んだK3sクラスターにClabernetesを構築し、マルチノードのContainerlabを動かすまでのハマりどころ"
+pubDate: 2026-04-13T00:28:19+09:00
+tags: []
+heroImage: ./images/20260405224201.png
 ---
 
 【格闘】⇒この記事内にはこの書き出しで筆者がハマったところを残しています。

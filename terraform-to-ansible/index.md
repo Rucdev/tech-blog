@@ -1,10 +1,8 @@
 ---
 title: "Terraform ↔ Ansible"
-date: 2023-07-20T09:00:00+09:00
-categories: ["Ansible", "Terraform"]
-draft: false
-hatenaPath: "/entry/2023/07/20/090000"
 description: "Ansible ↔ Terraformの橋渡しについて"
+pubDate: 2023-07-20T09:00:00+09:00
+tags: ["Ansible", "Terraform"]
 ---
 
 -   [TerraformとAnsible](#TerraformとAnsible)

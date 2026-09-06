@@ -1,9 +1,8 @@
 ---
 title: "【Ansible】NEC IX向けのコレクションをAnsible Galaxyにアップしました。"
-date: 2023-02-19T01:11:38+09:00
-categories: ["Ansible"]
-draft: false
-hatenaPath: "/entry/2023/02/19/011138"
+description: "NEC IX向けAnsibleコレクションをAnsible Galaxyに公開した報告と、現時点で抱えている課題のまとめ"
+pubDate: 2023-02-19T01:11:38+09:00
+tags: ["Ansible"]
 ---
 
 ### Ansible Galaxyへコレクションをアップする。

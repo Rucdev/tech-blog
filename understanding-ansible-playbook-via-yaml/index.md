@@ -1,10 +1,9 @@
 ---
 title: "YAMLという形式からAnsible Playbookをもっと理解する"
-date: 2022-04-27T23:06:51+09:00
-categories: ["Ansible"]
-draft: false
-hatenaPath: "/entry/2022/04/27/230651"
-image: ./images/20220219163521.png
+description: "Ansible PlaybookをYAMLのデータ構造という視点から見直して理解を深める"
+pubDate: 2022-04-27T23:06:51+09:00
+tags: ["Ansible"]
+heroImage: ./images/20220219163521.png
 ---
 
 -   [Playbookをなんとなく書いている。](#Playbookをなんとなく書いている)

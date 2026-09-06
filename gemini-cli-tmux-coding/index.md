@@ -1,10 +1,9 @@
 ---
 title: "gemini-cliとtmuxを使った最先端のコーディングを体験する"
-date: 2025-07-21T08:30:00+09:00
-categories: []
-draft: false
-hatenaPath: "/entry/2025/07/21/083000"
-image: ./images/20250702012012.png
+description: "無料枠の大きいgemini-cliとtmuxを組み合わせて、複数エージェントによる並列コーディングを体験する"
+pubDate: 2025-07-21T08:30:00+09:00
+tags: []
+heroImage: ./images/20250702012012.png
 ---
 
 ## 大CLIエージェント時代

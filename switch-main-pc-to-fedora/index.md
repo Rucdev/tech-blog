@@ -1,10 +1,9 @@
 ---
 title: "メインPCをFedoraにする"
-date: 2026-06-27T01:18:28+09:00
-categories: ["Linux"]
-draft: false
-hatenaPath: "/entry/2026/06/27/011828"
-image: ./images/20260614002353.png
+description: "個人用ノートPCのWindowsに嫌気が差してFedoraに乗り換えた際のセットアップ記録"
+pubDate: 2026-06-27T01:18:28+09:00
+tags: ["Linux"]
+heroImage: ./images/20260614002353.png
 ---
 
 ## グッバイWindows

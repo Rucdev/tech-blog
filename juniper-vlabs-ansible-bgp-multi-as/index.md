@@ -1,10 +1,9 @@
 ---
 title: "Juniper vLabsでAnsibleを使う　BGP - Multi - AS編"
-date: 2022-12-20T12:18:02+09:00
-categories: []
-draft: false
-hatenaPath: "/entry/2022/12/20/121802"
-image: ./images/20221220002400.png
+description: "Juniper vLabsのBGP - Multi - AS構成に対して、手元のAnsibleから設定投入にチャレンジする"
+pubDate: 2022-12-20T12:18:02+09:00
+tags: []
+heroImage: ./images/20221220002400.png
 ---
 
 この記事は [【アットホームな現場です】🎄★☆ネットワーク系エンジニア★☆アレコレアウトプット★☆🎄のカレンダー | Advent Calendar 2022 - Qiita](https://qiita.com/advent-calendar/2022/nw-engineering-are-core-output) の20日目の記事になります。

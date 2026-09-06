@@ -1,9 +1,8 @@
 ---
 title: "Ansible Action Pluginの探索"
-date: 2023-11-13T00:48:16+09:00
-categories: ["Ansible"]
-draft: false
-hatenaPath: "/entry/2023/11/13/004816"
+description: "AnsibleのAction Pluginが実行時にどのように探索・呼び出されているのかをTaskExecutorのソースから追った備忘録"
+pubDate: 2023-11-13T00:48:16+09:00
+tags: ["Ansible"]
 ---
 
 備忘録

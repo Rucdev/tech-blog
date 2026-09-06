@@ -1,10 +1,9 @@
 ---
 title: "Juniper vLabsでMPLSをやってみる"
-date: 2022-06-03T01:32:36+09:00
-categories: []
-draft: true
-hatenaPath: "/entry/2022/07/08/002943"
-image: ./images/20220604122413.png
+description: "Juniper vLabsのOSPF-Multi-area環境を使ってMPLSを構築してみる"
+pubDate: 2022-06-03T01:32:36+09:00
+tags: []
+heroImage: ./images/20220604122413.png
 ---
 
 ## Juniper vLabsとは

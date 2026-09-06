@@ -1,9 +1,8 @@
 ---
 title: "Ansibleはネットワーク機器のConfigをどのように理解しているのか【NetworkConfig】"
-date: 2023-05-23T23:59:06+09:00
-categories: []
-draft: true
-hatenaPath: "/entry/2023/05/24/000957"
+description: "ベンダーモジュールの~_configで冪等性管理に使われるNetworkConfigクラスがネットワーク機器のコンフィグをどう解釈するのかを追う"
+pubDate: 2023-05-23T23:59:06+09:00
+tags: []
 ---
 
 ## Ansibleでネットワーク機器を扱う

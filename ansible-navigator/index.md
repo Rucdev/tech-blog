@@ -1,10 +1,9 @@
 ---
 title: "Ansible Navigatorを使うぞ！"
-date: 2025-12-07T13:13:29+09:00
-categories: ["Ansible"]
-draft: false
-hatenaPath: "/entry/2025/12/07/131329"
-image: ./images/20251207123848.png
+description: "ansible-playbookコマンド愛用者がansible-navigatorに慣れるために、最低限押さえておきたい設定と使い方をまとめた備忘録"
+pubDate: 2025-12-07T13:13:29+09:00
+tags: ["Ansible"]
+heroImage: ./images/20251207123848.png
 ---
 
 こちらは [エーピーコミュニケーションズ Advent Calendar 2025](https://qiita.com/advent-calendar/2025/ap-com) 7日目の記事です！

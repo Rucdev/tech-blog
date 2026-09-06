@@ -1,9 +1,8 @@
 ---
 title: "YAMLからもっとAnsible Playbookを理解する（その他編）"
-date: 2022-05-13T22:48:21+09:00
-categories: ["Ansible"]
-draft: false
-hatenaPath: "/entry/2022/05/13/224821"
+description: "Flow Style、Block Scalar、Anchor/AliasなどYAMLの公式ドキュメントで面白いと思った記法のメモ"
+pubDate: 2022-05-13T22:48:21+09:00
+tags: ["Ansible"]
 ---
 
 ## YAMLの公式ドキュメント等を見て面白いなと思ったところのメモ

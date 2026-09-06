@@ -1,9 +1,8 @@
 ---
 title: "AnsibleのNetwork Resource Moduleが冪等性の確認として利用しているコマンドを探る"
-date: 2023-12-11T08:30:00+09:00
-categories: ["Ansible"]
-draft: false
-hatenaPath: "/entry/2023/12/11/083000"
+description: "AnsibleのNetwork Resource Moduleがどのコマンドで冪等性を確認しているのかをcisco.ios.ios_interfacesを例に探る"
+pubDate: 2023-12-11T08:30:00+09:00
+tags: ["Ansible"]
 ---
 
 この記事は [エーピーコミュニケーションズ Advent Calendar](https://qiita.com/advent-calendar/2023/ap-com) 2023 の11日目の投稿です。

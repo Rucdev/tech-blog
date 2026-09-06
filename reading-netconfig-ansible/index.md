@@ -1,9 +1,8 @@
 ---
 title: "NetConfigを読む【Ansible】"
-date: 2023-03-20T00:56:17+09:00
-categories: []
-draft: true
-hatenaPath: "/entry/2023/03/20/005617"
+description: "Ansibleのネットワーク機器向けコレクションの根幹にあるNetConfigクラスのソースを読み解く"
+pubDate: 2023-03-20T00:56:17+09:00
+tags: []
 ---
 
 ## NetConfig?

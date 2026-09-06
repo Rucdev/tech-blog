@@ -1,9 +1,8 @@
 ---
 title: "AWS CloudShellで始めるTerraform"
-date: 2024-03-03T02:18:41+09:00
-categories: []
-draft: true
-hatenaPath: "/entry/2024/03/03/021841"
+description: "AWS CloudShellを使って、環境構築なしでお手軽にTerraformを体験する"
+pubDate: 2024-03-03T02:18:41+09:00
+tags: []
 ---
 
 ## AWSのCloudShellでお手軽Terraform体験
